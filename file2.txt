@@ -1,1 +1,1 @@
-I recommend people to study the book Eloquent JS, i
+I recommend people to study the book Eloquent JS.
